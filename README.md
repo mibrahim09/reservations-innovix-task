@@ -1,4 +1,4 @@
-# Task for interview
+# A simple hotel reservation system made for an interview task
 
 The frontend is made in react.js and backend is a .net core 3.1 web service
 
